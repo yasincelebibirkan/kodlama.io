@@ -1,0 +1,39 @@
+-Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+
+String = metinsel veri tipi
+int = tam sayı 
+float = ondalıklı sayı
+bool = true false 
+dict = sözlük
+set = benzersiz ve sırasız
+tuple = değiştirilemez liste veri tipi
+list = değiştirilebilir liste veri tipi
+
+
+
+-Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+
+İlerleme yüzdesi = int
+butonlara basıldımı = boolen
+yorumlar = string
+
+
+
+-Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+
+Eğitimler listelenirken eğitime kayıt yapıldıysa ilerleme yüzdesi kayıt yapılmadıysa ÜCRETSİZ yazması
+if (kayityaptimi == true):
+    durum.txt = ilerlemeyuzdesi.tostring()
+else:
+    durum.txt = ÜCRETSİZ
+
+Sisteme giriş yapılmadıysa giriş yap kayıt ol butonları giriş yapıldıysa kullanıcı fotografı ve menüsü
+if (girisyaptimi == true):
+    kayitol.visible = false
+    girisyap.visible = false
+    kullanicimanu.visible = true
+else:
+    kayitol.visible = true
+    girisyap.visible = true
+    kullanicimanu.visible = false
+    
